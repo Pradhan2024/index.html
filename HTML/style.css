@@ -1,0 +1,24 @@
+h1 {
+    color: darkgoldenrod;}
+    p{color:red;}
+   .run p{color: blueviolet;}
+   .run table{color: brown;
+  border: solid black;} 
+    .gray h1{color: aqua;}
+   .sana p{color: rgb(20, 220, 93);}
+  #jack p{color: green;}
+  #roy p{color: blueviolet;}
+  #roy P{border bottom: 1px solid;}
+ #jack p{border-bottom: 1px solid black;}
+ .run p{border-bottom: 1px solid black;}
+ {text-decoration: iframe}
+ #jack p {font-size: 20px;}
+ h1 {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+h1 {padding: 5px;}
+h1 {text-decoration: black wavy underline;}
+p {border-bottom: solid black;}
+p {font-family: 'Courier New', Courier, monospace;}
+h1 {text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;}
+h1 {text-emphasis-style: 'x';}
+h1 {text-align-last: center;}
+h1 {vertical-align: text-top;}
